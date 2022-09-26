@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+    color: #00FF00;
+    font-family: georgia;
+}
+
+button{
+    color: #00FF00;
+	font-family: georgia;
+	font-size: 30px;
+	border-color: whitesmoke;
+	border-radius: 7px;
+	cursor: pointer;
+}
+
+.button1{
+    color: #00FF00;
+	font-family: georgia;
+	font-size: 30px;
+	border-color: whitesmoke;
+	border-radius: 7px;
+	cursor: pointer;
+}
+
+input{
+    border-radius: 7px;
+    border-color: white;
+}
